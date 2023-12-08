@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B96E96D62B2A02C4002940D7 /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96E96D52B2A02C4002940D7 /* TwoViewController.swift */; };
 		B9D92EA72B1F793700AB3E51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D92EA62B1F793700AB3E51 /* AppDelegate.swift */; };
 		B9D92EA92B1F793700AB3E51 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D92EA82B1F793700AB3E51 /* SceneDelegate.swift */; };
 		B9D92EAB2B1F793700AB3E51 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D92EAA2B1F793700AB3E51 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B96E96D52B2A02C4002940D7 /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
 		B9D92EA32B1F793700AB3E51 /* CoreySays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreySays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9D92EA62B1F793700AB3E51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9D92EA82B1F793700AB3E51 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		B9D92E9A2B1F793700AB3E51 = {
 			isa = PBXGroup;
 			children = (
+				B96E96D52B2A02C4002940D7 /* TwoViewController.swift */,
 				B9D92EA52B1F793700AB3E51 /* CoreySays */,
 				B9D92EBF2B1F793900AB3E51 /* CoreySaysTests */,
 				B9D92EC92B1F793900AB3E51 /* CoreySaysUITests */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B96E96D62B2A02C4002940D7 /* TwoViewController.swift in Sources */,
 				B9D92EB12B1F793700AB3E51 /* CoreySays.xcdatamodeld in Sources */,
 				B9D92EAB2B1F793700AB3E51 /* ViewController.swift in Sources */,
 				B9D92EA72B1F793700AB3E51 /* AppDelegate.swift in Sources */,
